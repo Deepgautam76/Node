@@ -1,0 +1,8 @@
+* => in the nodeJS every file is the module
+so you can directly export that
+
+------BUILD-IN MODULES------
+1-OS       (oprating system modules)
+2-PATH     (path modules)
+3-FS       (file system modules)
+4-HTTP     (http modules)
